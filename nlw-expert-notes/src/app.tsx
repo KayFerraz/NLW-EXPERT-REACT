@@ -17,17 +17,8 @@ export function App() {
             
   <NewCard/>  
     <NewCard/>
-      <NoteCardComponent/>
-        <NoteCardComponent/>
-          <NoteCardComponent/>
-            <NoteCardComponent/>
-              <NoteCardComponent/>
-                <NoteCardComponent/>
-              <NoteCardComponent/>
-            <NoteCardComponent/>
-          <NoteCardComponent/>
-        <NoteCardComponent/>
-     <NoteCardComponent/>
+      <NoteCardComponent date={new Date()} content={'Hello World'}/>
+        
     </div>
   </div>
    )
