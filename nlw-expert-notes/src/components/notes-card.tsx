@@ -3,7 +3,7 @@ import {formatDistanceToNow} from 'date-fns'
 import { ptBR} from 'date-fns/locale';
 import { X } from 'lucide-react';
 
-interface NoteCardProps {
+export interface NoteCardProps {
    
     date: Date
     content: string
@@ -15,7 +15,7 @@ export function NoteCardComponent (props: NoteCardProps) {
         <Dialog.Root>
             <Dialog.Trigger className="rounded-md flex flex-col bg-pink-900 p-5 gap-3 overflow-hidden relative outline-none hover:ring-2 hover:ring-rose-500  focus-visible:ring-2 focus-visible:ring-pink-300"> 
                     <span className="text-sm font-bold text-pink-300">
-                    {props.date.toISOString()}
+                    {formatDistanceToNow(props.date, { locale: ptBR, addSuffix: true})}
                     </span>
                     <p className='text-pink-200 text-sm leading-6'> 
                     {props.content}

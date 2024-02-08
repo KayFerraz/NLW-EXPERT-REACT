@@ -1,6 +1,7 @@
 import * as Dialog from '@radix-ui/react-dialog';
 import { X } from 'lucide-react';
 import { ChangeEvent, FormEvent, useState } from 'react';
+import {toast} from 'sonner'
 
 export function NewCard(){
   const [shouldShowOnboarding, setShouldOnboarding] = useState(true) 
@@ -18,6 +19,8 @@ export function NewCard(){
     event.preventDefault()
 
     console.log (content)
+
+    toast.success('Nota criada com sucesso.')
   }
   return (
       <Dialog.Root>
