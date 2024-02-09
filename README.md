@@ -1,4 +1,6 @@
 # NLW-EXPERT-REACT BLOCO DE NOTAS 
+![image](https://github.com/KayFerraz/NLW-EXPERT-REACT/assets/76049114/a48d55b6-6aa6-40e7-8c1c-caae48454e54)
+
 Trilha Rocketseat de ReactJs
 
 # Readme: Encerramento Next Level Week (NLW) Expert - Rocketseat
