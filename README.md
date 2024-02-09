@@ -26,12 +26,12 @@ Para executar a aplicação localmente, siga os passos abaixo:
 6. Acesse a aplicação em seu navegador através do endereço `http://localhost:3000`.
 
 ## Tecnologias Utilizadas
-- React: Biblioteca JavaScript para construção de interfaces de usuário.
-- TypeScript: Superset do JavaScript que adiciona tipagem estática opcional.
-- Date-fns: Biblioteca JavaScript para manipulação de datas.
-- Radix UI: Biblioteca de componentes de interface de usuário acessíveis.
-- Lucide Icons: Conjunto de ícones SVG.
-- Tailwind CSS: Framework CSS para desenvolvimento de interfaces.
+- [ReactJs](https://react.dev/learn)React: Biblioteca JavaScript para construção de interfaces de usuário.
+- [TypeScript](https://www.typescriptlang.org/)TypeScript: Superset do JavaScript que adiciona tipagem estática opcional.
+- [Date-fns](https://date-fns.org/)Date-fns: Biblioteca JavaScript para manipulação de datas.
+- [Radix UI](https://www.radix-ui.com/)Radix UI: Biblioteca de componentes de interface de usuário acessíveis.
+- [Lucide Icons](https://lucide.dev/)Lucide Icons: Conjunto de ícones SVG.
+- [Tailwind CSS](https://tailwindui.com/)Tailwind CSS: Framework CSS para desenvolvimento de interfaces.
 
 ## Agradecimentos
 Gostariiade agradecer à Rocketseat por promover o evento Next Level Week Expert e proporcionar a oportunidade de aprendizado e crescimento para toda a comunidade de desenvolvedores. 
