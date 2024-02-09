@@ -32,6 +32,7 @@ Para executar a aplicação localmente, siga os passos abaixo:
 - [Radix UI](https://www.radix-ui.com/)Radix UI: Biblioteca de componentes de interface de usuário acessíveis.
 - [Lucide Icons](https://lucide.dev/)Lucide Icons: Conjunto de ícones SVG.
 - [Tailwind CSS](https://tailwindui.com/)Tailwind CSS: Framework CSS para desenvolvimento de interfaces.
+- [Sonner](https://sonner.emilkowal.ski/)Sonner: um componente de toast opinativo do React. 
 
 ## Agradecimentos
 Gostariiade agradecer à Rocketseat por promover o evento Next Level Week Expert e proporcionar a oportunidade de aprendizado e crescimento para toda a comunidade de desenvolvedores. 
