@@ -1,4 +1,4 @@
-# NLW-EXPERT-REACT
+# NLW-EXPERT-REACT BLOCO DE NOTAS 
 Trilha Rocketseat de ReactJs
 
 # Readme: Encerramento Next Level Week (NLW) Expert - Rocketseat
