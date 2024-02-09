@@ -3,7 +3,6 @@
 
 Trilha Rocketseat de ReactJs
 
-# Readme: Encerramento Next Level Week (NLW) Expert - Rocketseat
 
 ## Descrição
 Este repositório contém o código fonte de uma aplicação web desenvolvida durante o evento Next Level Week (NLW) Expert, promovido pela Rocketseat. O evento é uma imersão prática em uma determinada tecnologia ou stack, onde os participantes têm a oportunidade de aprender na prática construindo uma aplicação real. Contém alterações básicas feita por mim.
