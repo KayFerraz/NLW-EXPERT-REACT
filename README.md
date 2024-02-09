@@ -1,11 +1,9 @@
 # NLW-EXPERT-REACT BLOCO DE NOTAS 
-![image](https://github.com/KayFerraz/NLW-EXPERT-REACT/assets/76049114/a48d55b6-6aa6-40e7-8c1c-caae48454e54)
-
-Trilha Rocketseat de ReactJs
-
 
 ## Descrição
 Este repositório contém o código fonte de uma aplicação web desenvolvida durante o evento Next Level Week (NLW) Expert, promovido pela Rocketseat. O evento é uma imersão prática em uma determinada tecnologia ou stack, onde os participantes têm a oportunidade de aprender na prática construindo uma aplicação real. Contém alterações básicas feita por mim.
+
+![image](https://github.com/KayFerraz/NLW-EXPERT-REACT/assets/76049114/a48d55b6-6aa6-40e7-8c1c-caae48454e54)
 
 A aplicação desenvolvida durante o evento é uma plataforma de notas onde os usuários podem criar, visualizar e pesquisar notas. Durante o encerramento do evento, foram abordados conceitos avançados de React, boas práticas de desenvolvimento, e estratégias de otimização de performance.
 
